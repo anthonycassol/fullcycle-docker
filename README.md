@@ -2,7 +2,7 @@
 
 
 <h3>Desafio 1</h3>
-[DockerHub](www.hub.docker.com/r/anthonycassol/fullcycle)
+[DockerHub](https://hub.docker.com/repository/docker/anthonycassol/fullcycle/general)
 
 <p></p>
 
