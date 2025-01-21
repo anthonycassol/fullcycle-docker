@@ -1,9 +1,10 @@
 <h1 align="center">FullCycle - Módulo Docker</h1>
 
 
-<p>Desafio 1</p>
-Imagem Dockerhub -  [DockerHub] (hub.docker.com/r/anthonycassol/fullcycle)
+<h3>Desafio 1</h3>
+[DockerHub](hub.docker.com/r/anthonycassol/fullcycle)
 
+<p></p>
 
-<p>Desafio 2</p>
+<h3>Desafio 2</h3>
 Para rodar o Desafio 2 você precisa entrar na pasta desafio_2 e rodar docker-compose up -d
